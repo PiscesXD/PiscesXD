@@ -8,7 +8,7 @@
 * [Dingbot](https://dingbot.xyz)
 * [私人API](https://dingbot.xyz)
 ## 主要語言
-<a href="https://github.com/PiscesXD" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
+JS PY C++
 ## 機器人貢獻者
 * Pisces_ 主要開發
 * whes1015 資源技術
