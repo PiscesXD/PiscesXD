@@ -10,3 +10,8 @@
 ## 機器人貢獻者
 * Pisces_ 主要開發
 * whes1015 資源技術
+## DingBot有關網址
+* [邀請連結](https://discord.com/api/oauth2/authorize?client_id=629675783648182282&permissions=1385059184119&scope=bot%20applications.commands)
+* [DST](https://discordservers.tw/bots/629675783648182282)
+## 加入相關團隊
+* [ExpTech | 探索科技](https://github.com/ExpTechTW)
