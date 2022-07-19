@@ -7,6 +7,7 @@
 ## 開發項目
 * [Dingbot](https://dingbot.xyz)
 * [私人API](https://dingbot.xyz)
+* [BMRP](https://github.com/ExpTechTW)
 ## 主要語言
 JS PY C++
 ## 機器人貢獻者
