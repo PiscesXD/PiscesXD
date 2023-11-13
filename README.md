@@ -8,6 +8,6 @@
 * 私人API
 * [BMRP](https://github.com/ExpTechTW)
 ## 主要語言
-JS PY C TS 
+JS PY C TS C CPP
 ## 加入相關團隊
 * [ExpTech | 探索科技](https://github.com/ExpTechTW)
