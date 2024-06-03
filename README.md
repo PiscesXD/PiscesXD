@@ -7,6 +7,7 @@
 * Dingbot
 * 私人API
 * [BMRP](https://github.com/ExpTechTW)
+* [CDPS](https://github.com/ExpTechTW/CDPS)
 ## 主要語言
 JS PY C TS C CPP
 ## 加入相關團隊
