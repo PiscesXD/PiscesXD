@@ -10,5 +10,7 @@
 * [CDPS](https://github.com/ExpTechTW/CDPS)
 ## 主要語言
 JS PY C TS CPP
+## 參加競賽
+Python 資訊月團體賽 第四名
 ## 加入相關團隊
 * [ExpTech | 探索科技](https://github.com/ExpTechTW)
