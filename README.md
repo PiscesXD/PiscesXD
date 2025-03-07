@@ -1,8 +1,8 @@
 <font size=2><p align="center">嘿我是Pisces_</p></font>
 ======
 ## 關於我
-大家好我是Pisces_，您可能覺得我在說幹話?
-但我想說的事，雖然我不是有關開發程式編碼的技術人員，但我還是會盡一份努力的學習和開發。
+目前正在學習後端技術，學習更多內容。
+將生活中遇到的不便事情都方便化。
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PiscesXD&theme=2077)
 ## 開發項目
 * Dingbot
