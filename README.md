@@ -1,7 +1,7 @@
 <h1 align="center">嘿我是Pisces_</h1>  
 
 ## 關於我
-目前正在學習後端技術，學習更多內容。
+目前正在學習後端技術，學習更多內容。  
 將生活中遇到的不便事情都方便化。
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PiscesXD&theme=2077)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PiscesXD&theme=2077)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PiscesXD&theme=2077)
