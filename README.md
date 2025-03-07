@@ -4,7 +4,7 @@
 目前正在學習後端技術，學習更多內容。
 將生活中遇到的不便事情都方便化。
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PiscesXD&theme=2077)  
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PiscesXD&theme=2077)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PiscesXD&theme=2077)
 ## 開發項目
 * [Dingbot](https://discord.gg/dingbot-zhi-yuan-zong-he-tao-lun-qun-746055685594284061)
 * 私人API
