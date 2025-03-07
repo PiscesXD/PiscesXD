@@ -3,6 +3,7 @@
 ## 關於我
 大家好我是Pisces_，您可能覺得我在說幹話?
 但我想說的事，雖然我不是有關開發程式編碼的技術人員，但我還是會盡一份努力的學習和開發。
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)
 ## 開發項目
 * Dingbot
 * 私人API
