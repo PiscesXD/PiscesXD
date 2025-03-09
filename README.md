@@ -17,6 +17,8 @@
 ![](https://img.shields.io/badge/%20-python-gray?logo=python&style=for-the-badge&) 
 ![](https://img.shields.io/badge/%20-c-gray?logo=c&style=for-the-badge&) 
 ![](https://img.shields.io/badge/%20-C++-gray?logo=cplusplus&style=for-the-badge) 
+## 參加活動
+SITCON 2025
 ## 參加競賽
 Python 資訊月團體賽 第四名
 ## 加入相關團隊
