@@ -20,7 +20,7 @@
 ## 參加活動
 SITCON 2025
 ## 參加競賽
-黑客松2025 南區 技術獎
-Python 資訊月團體賽 第四名
+* 黑客松2025 南區 技術獎
+* Python 資訊月團體賽 第四名
 ## 加入相關團隊
 * [ExpTech | 探索科技](https://github.com/ExpTechTW)
