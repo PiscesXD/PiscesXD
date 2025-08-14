@@ -20,8 +20,8 @@
 ![](https://img.shields.io/badge/%20-docker-gray?logo=docker&style=for-the-badge&) 
 ![](https://img.shields.io/badge/%20-mysql-gray?logo=mysql&style=for-the-badge&)
 ## 參加活動
-SITCON 2025
-COSCUP 2025
+* SITCON 2025
+* COSCUP 2025
 ## 參加競賽
 * 黑客松技職盃 2025 全國 設計獎
 * 黑客松技職盃 2025 南區 技術獎
