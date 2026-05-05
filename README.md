@@ -17,14 +17,20 @@
 ![](https://img.shields.io/badge/%20-python-gray?logo=python&style=for-the-badge&) 
 ![](https://img.shields.io/badge/%20-c-gray?logo=c&style=for-the-badge&) 
 ![](https://img.shields.io/badge/%20-C++-gray?logo=cplusplus&style=for-the-badge&) 
+![](https://img.shields.io/badge/%20-dart-gray?logo=dart&style=for-the-badge&)
+![](https://img.shields.io/badge/%20-go-gray?logo=go&style=for-the-badge&)
+![](https://img.shields.io/badge/%20-rust-gray?logo=rust&style=for-the-badge&)
 ![](https://img.shields.io/badge/%20-docker-gray?logo=docker&style=for-the-badge&) 
 ![](https://img.shields.io/badge/%20-mysql-gray?logo=mysql&style=for-the-badge&)
+![](https://img.shields.io/badge/%20-postgresql-gray?logo=postgresql&style=for-the-badge&)
+![](https://img.shields.io/badge/%20-mariadb-gray?logo=mariadb&style=for-the-badge&)
 ## 參加活動
+* SITCON 2026
 * SITCON 2025
 * COSCUP 2025
 ## 參加競賽
 * 黑客松技職盃 2025 全國 最佳設計獎
 * 黑客松技職盃 2025 南區 最佳技術獎
 * Python 2026 資訊月團體賽 第一名
-## 加入相關團隊
+## 加入團隊
 * [ExpTech | 探索科技](https://github.com/ExpTechTW)
