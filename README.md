@@ -25,6 +25,7 @@
 ![](https://img.shields.io/badge/%20-postgresql-gray?logo=postgresql&style=for-the-badge&)
 ![](https://img.shields.io/badge/%20-mariadb-gray?logo=mariadb&style=for-the-badge&)
 ## 參加活動
+* COSCUP 2026
 * SITCON 2026
 * SITCON 2025
 * COSCUP 2025
