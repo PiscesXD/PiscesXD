@@ -11,6 +11,8 @@
 * 私人API
 * [BMRP](https://github.com/ExpTechTW)
 * [CDPS](https://github.com/ExpTechTW/CDPS)
+* [CSU_PLUS 作者](https://csuplus.dingbot.tw/)
+* [DPIP](https://github.com/ExpTechTW/DPIP)
 ## 技能樹
 ![](https://img.shields.io/badge/%20-typescript-gray?logo=typescript&style=for-the-badge&) 
 ![](https://img.shields.io/badge/%20-javascript-gray?logo=javascript&style=for-the-badge&) 
